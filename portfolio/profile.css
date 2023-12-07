@@ -1,0 +1,33 @@
+body{
+    background-color: gray;
+}
+.profile{
+    text-align: center;
+}
+.first{
+    margin-left: 300px;
+    background-color:crimson;
+    height:400px;
+    width:800px;
+    margin-left: 300px;
+    padding-top: 80px;
+    color:white
+}
+.rad{
+    background-color: black;
+    height:300px;
+    width:400px;
+    margin-left:60px;
+    border-radius: 10px;
+}
+.last{
+    background-color: black;
+    height:300px;
+    width:300px; 
+    text-align:center;
+    border-radius: 10px;
+
+}
+.whole{
+    display: flex;
+}
